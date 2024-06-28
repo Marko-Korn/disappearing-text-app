@@ -1,5 +1,5 @@
 # disappearing-text-app
-A Python based writing app using Tk Inter. For most writers, a big problem is writing block. Where you can't think of what to write and you can't write anything. This provides one of the solutions for this issue. If nothing is written in 5-15 seconds, the text will be lost.
+A very simple Python based writing app using Tk Inter. For most writers, a big problem is writing block. Where you can't think of what to write and you can't write anything. This provides one of the solutions for this issue. If nothing is written in 5-15 seconds, the text will be lost.
 
 # Features
 This app allows the user to choose a diffuculty, from Easy to Medium and finally Hard. Each difficulty has different amout of time where the user is allowed not to type, ranging from 5 to 15 seconds. The user also gets prompted, asking them if they want to enable the saving functionality, which allows the user to save their written text if the timer runs out. If user chooses to save the file, their text will be saved into a .txt file.
